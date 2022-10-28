@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/JsonDecoder/build/
+/JsonDecoder/build/classes/java/main/
+/JsonDecoder/build/classes/java/test/
