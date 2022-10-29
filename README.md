@@ -7,5 +7,5 @@ This converter can infer default value from the schema when they are not present
 more bullet proof convertor.
 
 This feature is necessary regarding schema evolution 
-when a schema is written in a database with multiple sercices using it with each having their own schema version
+when a schema is written in a database with multiple sercices using it with each having their own schema version.
 
