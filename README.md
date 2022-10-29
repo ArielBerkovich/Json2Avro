@@ -4,7 +4,7 @@ apacha 1.10.
 
 
 This converter can infer default value from the schema when they are not present in the json, thus resulting in a 
-more bullet proof convertor.
+more bullet proof conversion
 
 This feature is necessary regarding schema evolution 
 when a schema is written in a database with multiple services using it with each having their own schema version.
